@@ -13,14 +13,17 @@ Soy un profesional con base en **Administración y Marketing**, apasionado por t
 * **Mi Análisis:** Uso de **SQL** para extracción de datos y **Python** para realizar pruebas de hipótesis estadísticas (T-test).
 * **Conclusiones:** Se validó que el clima lluvioso incrementa significativamente la duración de los viajes, sugiriendo el uso de tarifas dinámicas y ajustes en el ETA.
 * **[Ver proyecto completo aquí](https://github.com/SebastianSilva2634/proyecto_8_tripleten.git)**!
+* <img width="610" height="501" alt="image" src="https://github.com/user-attachments/assets/281bd65d-8d61-495d-bd15-a47b09fe7e7a" />
+
   
 
-#### 2. Análisis del Mercado de Videojuegos 🎮
-* **Contexto:** Análisis de ventas históricas para identificar patrones de éxito y planificar campañas publicitarias de nuevas plataformas.
-* **Mi Análisis:** Análisis Exploratorio de Datos (**EDA**), limpieza de datos y visualización de tendencias de mercado.
-* **Conclusiones:** Determinación de las consolas con mayor ciclo de vida y la influencia de las reseñas en el volumen de ventas.
-* **[Ver proyecto completo aquí](https://github.com/SebastianSilva2634/proyecto_7_tripleten.git)**
-<img width="604" height="500" alt="image" src="https://github.com/user-attachments/assets/9f2e1f59-6251-43eb-bf8d-9a03849ff9e6" />
+#### 2. Web App de Análisis de Mercado Automotriz 🚗💻
+* **Contexto:** Desarrollo de una aplicación web interactiva para explorar y visualizar un dataset de anuncios de venta de vehículos en EE. UU.
+* **Mi Análisis:** Limpieza de datos con Pandas y construcción de una interfaz dinámica usando **Streamlit**. Implementé filtros interactivos mediante botones y casillas de verificación para histogramas y gráficos de dispersión.
+* **Conclusiones:** La herramienta permite identificar rápidamente la relación entre el odómetro y el precio, facilitando la detección de ofertas competitivas en el mercado.
+* **[Ver código en GitHub](https://github.com/SebastianSilva2634/proyecto_7_tripleten.git))**
+<img width="812" height="528" alt="image" src="https://github.com/user-attachments/assets/4defeeca-0e1d-421d-83a0-18ce1e694519" />
+<img width="783" height="544" alt="image" src="https://github.com/user-attachments/assets/7f347424-cb57-49b4-ae9c-47c60b1bed39" />
 
 ---
 
