@@ -25,6 +25,13 @@ Soy un profesional con base en **Administración y Marketing**, apasionado por t
 <img width="812" height="528" alt="image" src="https://github.com/user-attachments/assets/4defeeca-0e1d-421d-83a0-18ce1e694519" />
 <img width="783" height="544" alt="image" src="https://github.com/user-attachments/assets/7f347424-cb57-49b4-ae9c-47c60b1bed39" />
 
+
+---
+### 🎮 Proyecto 3: Análisis del Mercado de Videojuegos
+* **Descripción:** Identificación de patrones de éxito en ventas y plataformas para optimización de marketing.
+* **Herramientas:** Python (Pandas, Seaborn), SciPy (Pruebas T-test).
+* **[Ver Repositorio en GitHub](https://github.com/SebastianSilva2634/games-data-analysis)**
+---
 ---
 
 ### 📩 Contacto
